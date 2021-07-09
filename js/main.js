@@ -519,13 +519,6 @@ let resolutionsArray = [
             "code": "",
             "links": "https://www.w3.org/TR/wai-aria-practices-1.1/#dialog_modal\nhttps://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html\n",
             "type": "web"
-          },
-          {
-            "id": 1625176241939,
-            "text": "Ensure the focus is moved only inside the modal. Consider providing a behavior in a way that the focus loops between focusable elements contained inside the dialog.\n",
-            "code": "",
-            "links": "https://www.w3.org/TR/wai-aria-practices-1.1/#dialog_modal\nhttps://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html\n",
-            "type": "web"
           }
         ]
       },
